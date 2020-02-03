@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\LabTask\LabTask\bin\Debug\LabTask.exe.config
+C:\Users\ASUS\source\repos\LabTask\LabTask\bin\Debug\LabTask.exe
+C:\Users\ASUS\source\repos\LabTask\LabTask\bin\Debug\LabTask.pdb
+C:\Users\ASUS\source\repos\LabTask\LabTask\obj\Debug\LabTask.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\LabTask\LabTask\obj\Debug\LabTask.Form1.resources
+C:\Users\ASUS\source\repos\LabTask\LabTask\obj\Debug\LabTask.Properties.Resources.resources
+C:\Users\ASUS\source\repos\LabTask\LabTask\obj\Debug\LabTask.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\LabTask\LabTask\obj\Debug\LabTask.exe
+C:\Users\ASUS\source\repos\LabTask\LabTask\obj\Debug\LabTask.pdb
